@@ -13621,3 +13621,10 @@ Entries:
   id: 1506
   time: '2025-11-01T15:46:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2534
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Expeditionary FlatpackVend IFF consoles are no longer limited.
+  id: 1507
+  time: '2025-11-02T13:19:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2542
