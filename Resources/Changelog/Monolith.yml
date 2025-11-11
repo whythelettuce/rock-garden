@@ -14033,3 +14033,12 @@ Entries:
   id: 1552
   time: '2025-11-11T00:58:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2589
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Radars are now square.
+    - type: Tweak
+      message: All radars are now pannable.
+  id: 1553
+  time: '2025-11-11T05:33:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2590
