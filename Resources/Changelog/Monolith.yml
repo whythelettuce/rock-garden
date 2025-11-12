@@ -14069,3 +14069,10 @@ Entries:
   id: 1556
   time: '2025-11-11T23:26:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2607
+- author: Ark
+  changes:
+    - type: Fix
+      message: Instruments should no longer sound the same.
+  id: 1557
+  time: '2025-11-12T01:29:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2608
