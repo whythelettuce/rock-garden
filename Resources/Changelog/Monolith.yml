@@ -14085,3 +14085,10 @@ Entries:
   id: 1559
   time: '2025-11-13T00:32:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2617
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Safezone vendomats are now hackable.
+  id: 1560
+  time: '2025-11-13T00:33:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2616
